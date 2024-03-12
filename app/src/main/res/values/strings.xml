@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Group Project</string>
+    <string name="resetSteps">Reset Steps</string>
+    <string name="signOut">Sign Out</string>
+    <string name="settings">Settings</string>
+    <string name="allowNotifs">Allow Notifications</string>
+    <string name="deleteAcct">Delete Account</string>
+    <string name="userChange">Change Username</string>
+    <string name="passChange">Change Password</string>
+    <string name="spacer"> _____________________________________ </string>
+
+    <string name="general">General Settings</string>
+    <string name="major">Irreversible Settings</string>
+    <string name="Account">Account Settings</string>
+
+</resources>
